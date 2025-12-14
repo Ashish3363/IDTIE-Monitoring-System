@@ -1,0 +1,14 @@
+*.pt
+venv/
+.env/
+__pycache__/    
+*.pyc
+*.pyo
+*.mp4
+violation_screenshots/
+faces_db/**
+.vscode/
+images_dataset/
+runs/**
+ByteTrack/
+data/
