@@ -7,7 +7,7 @@ A real-time facial recognition and uniform compliance monitoring system that det
 IDTieMonitor combines facial recognition with object detection to monitor student compliance with uniform policies. The system uses YOLOv8 for face detection and object detection, ArcFace for facial recognition, and FAISS for efficient similarity searches.
 
 **Frontend Repository:**  
-https://github.com/09samuel/idtiemonitor-frontend
+https://github.com/Ashish3363/IDTIE-Monitoring-System-Frontend
 
 ## Tech Stack
 
@@ -65,7 +65,7 @@ Angular CLI
 ### Backend Setup
 ```bash
 # Clone the repository
-git clone https://github.com/09samuel/idtiemonitor.git
+git clone https://github.com/Ashish3363/IDTIE-MOnitoring-System.git
 cd idtiemonitor
 
 # Create virtual environment
